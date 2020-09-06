@@ -1,0 +1,18 @@
+
+2020-09-04 11:34:16 INFO  [main]: User entered USER_ID 1
+2020-09-04 11:34:21 INFO  [main]: User entered USERNAME postgres
+2020-09-04 11:34:31 INFO  [main]: User entered PASSWORD Pe0pl3N8wcastl3
+2020-09-04 11:34:34 INFO  [main]: Connecting to the database...
+2020-09-04 11:34:34 INFO  [main]: Checking account 1
+2020-09-04 11:34:35 INFO  [main]: Account nix.jdbc.entity.Account@31c88ec8 contains 2 operations
+2020-09-04 11:34:35 INFO  [main]:  Check was created 
+2020-09-04 11:34:35 INFO  [main]: Checking account 2
+2020-09-04 11:34:35 INFO  [main]: Account nix.jdbc.entity.Account@333291e3 contains 2 operations
+2020-09-04 11:34:35 INFO  [main]:  Check was created 
+2020-09-06 01:57:38 INFO  [main]: User selected Hibernate mode
+2020-09-06 01:57:57 INFO  [main]: User entered USER_ID 1
+2020-09-06 01:58:08 INFO  [main]: User entered USERNAME postgres
+2020-09-06 01:58:23 INFO  [main]: User entered PASSWORD Pe0pl3N8wcastl3
+2020-09-06 01:58:36 INFO  [main]: User entered accountId 1
+2020-09-06 01:58:57 INFO  [main]: User entered amount 100
+2020-09-06 01:58:36 INFO  [main]: In account 1 operation was created: type INCOME, amount 100
